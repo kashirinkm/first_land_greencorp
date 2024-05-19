@@ -216,3 +216,8 @@ footer {
 .about__sun-image {
   animation: 10s infinite linear rotation ;
 }
+
+.fa-chevron-right {
+  margin-left: 3px;
+  height: 12px;
+}
